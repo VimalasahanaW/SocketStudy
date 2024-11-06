@@ -82,7 +82,7 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## Output
-![Screenshot 2024-09-09 181511](https://github.com/user-attachments/assets/cfdf45da-4a25-4f44-a7c2-ee0b9713b536)
+![Screenshot 2024-09-09 181511](https://github.com/user-attachments/assets/2387a17d-da26-4457-b34a-d282b2f3a42b)
 
 
 
